@@ -1,4 +1,4 @@
-*{
+* {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -56,7 +56,7 @@ body {
   margin-left: 10px;
 }
 #a select {
-    height: 6.3vh;
+  height: 6.3vh;
   margin-left: 70px;
   border-top-left-radius: 8px;
   border-bottom-left-radius: 8px;
@@ -284,19 +284,16 @@ border-bottom-left-radius:1000px; */
   background-color: #fff;
   height: 370px;
   width: 290px;
-
 }
 #deva3 {
   background-color: #fff;
   height: 370px;
   width: 290px;
-  
 }
 #deva4 {
   background-color: #fff;
   height: 370px;
   width: 290px;
-
 }
 
 #deca {
@@ -315,19 +312,16 @@ border-bottom-left-radius:1000px; */
   background-color: #fff;
   height: 370px;
   width: 290px;
-
 }
 #deca2 {
   background-color: #fff;
   height: 370px;
   width: 290px;
-
 }
 #deca3 {
   background-color: #fff;
   height: 370px;
   width: 290px;
-
 }
 #deca4 {
   height: 370px;
